@@ -2,14 +2,13 @@ SQL INSERT INTO
 
 --Insert a new record in the Liability table.
 
-INSERT INTO
-Liabilities
+INSERT INTO Liabilities
 (CustomerName,
 Address,
 City,
 PostalCode,
 Country)
-Values
+VALUES
 ('Barbe Brown',
 'Mesfield 15',
 'York',
