@@ -1,0 +1,18 @@
+SQL INSERT INTO
+
+--Insert a new record in the Liability table.
+
+INSERT INTO
+Liabilities
+(CustomerName,
+Address,
+City,
+PostalCode,
+Country)
+Values
+('Barbe Brown',
+'Mesfield 15',
+'York',
+'4506',
+'US');
+
